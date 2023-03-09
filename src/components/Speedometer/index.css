@@ -1,0 +1,20 @@
+/* Write your CSS here */
+body {
+}
+.bg-container {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imgStyle {
+  height: 200px;
+  width: 40%;
+}
+.button-box {
+  display: flex;
+  gap: 30px;
+}
